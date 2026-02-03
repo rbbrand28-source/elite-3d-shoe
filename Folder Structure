@@ -1,0 +1,12 @@
+futuristic-shoe-site/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ components/
+│  │  └─ Shoe.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.js
+└─ vite.config.js
